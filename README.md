@@ -1,4 +1,4 @@
-# vue-tocode
+# vue-Notify-app
 
 ## Project setup
 ```
